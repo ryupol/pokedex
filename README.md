@@ -2,4 +2,4 @@
 
 ### Tool: React, MUI, PokeAPI
 
-this Project create pokedex with 800 pokemon informations
+This project creates a Pokédex with information on 800 Pokémon.
